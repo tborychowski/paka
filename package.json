@@ -1,0 +1,15 @@
+{
+  "name": "ups",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-msg": "^1.2.3"
+  },
+  "devDependencies": {}
+}
