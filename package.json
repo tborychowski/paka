@@ -9,7 +9,8 @@
   "scripts": {},
   "dependencies": {
     "axios": "^0.18.0",
-    "node-msg": "^1.2.3"
+    "node-msg": "^1.2.3",
+    "terminal-link": "^1.2.0"
   },
   "devDependencies": {}
 }
