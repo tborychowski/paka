@@ -6,6 +6,6 @@ tmp/
 
 .DS_Store
 *.log
-*.db
 
-config/production.js*
+
+config.json
