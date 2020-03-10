@@ -3,4 +3,4 @@
 shopt -s nullglob
 DIR="$(pwd)"
 
-ln -sf $DIR/index.js $HOME/bin/ups
+ln -sf $DIR/index.js $HOME/bin/paka
